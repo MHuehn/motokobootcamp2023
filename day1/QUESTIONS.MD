@@ -2,7 +2,7 @@
 How much is the current memory capacity of a canister?
 
 ### Answer:
-The storage capacity of a canister has 450GB in maximum (Subnets) (may change that, after more research)
+It may depends on the view what a canister could contain if the capacity of a subnet is meant. The stable memory capacity of a canister is 48 GB and a subnet can reach 450 GB for now. 
 
 ## Question 2: 
 What is the issue with the following code sample?
